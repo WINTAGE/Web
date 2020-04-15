@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html>
+
+  <title> WINTAGE'S WEBSITE </title>
+
+<link href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Kavivanar&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap" rel="stylesheet">
+
+<style>
+
+  img {
+    width: 360px;
+    height: 360px;
+    clip-path: inset(0 0 7.5% 0);
+  }
+
+	h4 {
+		font-size: 100px;
+		color: #18aefc;
+		font-family: 'Saira Stencil One';
+	}
+
+  h1 {
+    font-family: 'Trade Winds', cursive;
+    font-size: 45px;
+    color: lightgray;
+  }
+
+  html {
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: linear-gradient( to bottom right, rgba(0, 0, 0, 1) 0%, rgba(24, 174, 252, 1) 100%);
+  }
+
+  h2 {
+    font-family: 'Kavivanar';
+    font-size: 40px;
+    color: silver;
+  }
+
+  h3 {
+    font-family: 'Odibee Sans';
+    font-size: 35px;
+    color: darkgray;
+  }
+
+  h5 {
+    color: lightslategray;
+  }
+
+</style>
+
+<header>
+
+	<h1> Hello People <h1>
+
+	<h2> It's Me </h2>
+
+	<h3> The Gamer </h3>
+
+	<h4>  WINTAGE  </h4>
+
+</header>
+
+<footer>
+
+  <div style="width=360px; length=360px; overflow=hidden">
+
+    <a href="#"><img src="https://image.shutterstock.com/image-vector/letter-w-gaming-logo-design-260nw-1488785426.jpg" alt="My Logo" length= "360px" width="360px" clip-path: inset(0 0 3% 0></a></div>
+
+  <h5>
+     About : PHANTOM the Gamer . 
+
+     ©CopyRight 2019-2020 , PHANTOM.
+  </h5>
+
+</footer>
+
+</html>
